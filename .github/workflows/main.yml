@@ -1,4 +1,4 @@
-name: Hello World Workflow yash and vamsi
+name: Hello World Workflow yash and perumal
 
 # Trigger the workflow on push to any branch
 on: 
